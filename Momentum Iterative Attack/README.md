@@ -9,9 +9,11 @@ Non-Targeted Attack Repo: https://github.com/dongyp13/Non-Targeted-Adversarial-A
 Targeted Attack Repo: https://github.com/dongyp13/Targeted-Adversarial-Attack
 
 All credit to the authors
-`@inproceedings{dong2018boosting,
+```
+@inproceedings{dong2018boosting,
   title={Boosting Adversarial Attacks with Momentum},
   author={Dong, Yinpeng and Liao, Fangzhou and Pang, Tianyu and Su, Hang and Zhu, Jun and Hu, Xiaolin and Li, Jianguo},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2018}
-}`
+}
+```
